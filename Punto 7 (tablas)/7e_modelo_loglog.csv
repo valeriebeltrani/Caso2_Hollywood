@@ -1,0 +1,3 @@
+"variable","coeficiente","error_std","t","p_valor"
+"(Intercept)",1.25261,0.18117,6.914,0
+"ln_opening",0.9766,0.06579,14.843,0
