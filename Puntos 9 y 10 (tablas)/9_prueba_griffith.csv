@@ -1,0 +1,6 @@
+"concepto","valor"
+"Efecto de critics en NO comedias",0.01021
+"Efecto de critics en comedias",0.00694
+"Coeficiente de la interacción",-0.00327
+"t de la interacción",-0.71448
+"p-valor una cola (H1: interacción < 0)",0.23867
